@@ -1,0 +1,6 @@
+Flask
+Flask-GraphQL
+
+graphene-mongo
+# mongoengine -> dependency of graphene-mongo
+# graphene -> dependency of graphene-mongo
